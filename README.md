@@ -17,4 +17,4 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-![Certificado](https://www.dropbox.com/s/nlsn6u6eoiwv5tr/diploma-vuejs.PNG)
+![Certificado](https://image.ibb.co/naM8D6/diploma_vuejs.png")
